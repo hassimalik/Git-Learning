@@ -40,4 +40,4 @@ Cherry-pick<br>
 Git is basically building a blockchain for your code 😄<br>
 
 ```git diff``` <br>
-This command is used to see the difference in the 
+This command is used to see the difference which files are different now from last commit and havenot been staged or commited.
