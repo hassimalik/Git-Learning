@@ -23,6 +23,7 @@ This command is use to commit with a message
 
 ```git log``` or ```git log --oneline``` <br>
 This command will show u all the commit history of your repo.<br>
+Online is for compact form of the details in oneline.<br>
 commit e5b7048c24cb1f402526ed4adc11f76bf89a9a45<br>
 That long weird code?<br>
 That is your Commit ID (SHA).<br>
@@ -37,3 +38,6 @@ Compare changes<br>
 Reset history<br>
 Cherry-pick<br>
 Git is basically building a blockchain for your code 😄<br>
+
+```git diff``` <br>
+This command is used to see the difference in the 
