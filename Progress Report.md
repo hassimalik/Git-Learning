@@ -50,4 +50,4 @@ We have to first pull remote changes so for that we use git stash to hide our lo
 
 `echo ".env" > .gitignore` <br>
 This command is used to create a gitignore file inside a gitignore file we write those file extensions or folder names that should be ignored while pushing code u can open in notepad by running `notepad .gitignore`.
-So
+
