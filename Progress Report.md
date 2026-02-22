@@ -1,4 +1,4 @@
-## So we are starting learning Git
+# Stage 1
 
 ## Day 1
 
@@ -48,4 +48,6 @@ This command is used to restore last commit that was done to that repo and to es
 `git stash` then `git stash apply`<br>
 We have to first pull remote changes so for that we use git stash to hide our local changes safely then we run command of `git pull origin main` to pull the changes to our professional repo to our working project or local directory/code and then we run `git stash apply` so that the local changes unhides now safely.
 
-
+`echo ".env" > .gitignore` <br>
+This command is used to create a gitignore file inside a gitignore file we write those file extensions or folder names that should be ignored while pushing code u can open in notepad by running `notepad .gitignore`.
+So
