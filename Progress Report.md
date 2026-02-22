@@ -37,3 +37,13 @@ Compare changes<br>
 Reset history<br>
 Cherry-pick<br>
 Git is basically building a blockchain for your code 😄<br>
+
+
+## Day 2
+
+```git restore <filename>``` <br>
+This command is used to restore last changes to a file if they are done by mistake.
+
+```git revert <commitid>``` <br>
+This command is used to restore  last commit that was done to that repo and to esc vim type ```:qa``` then press  ```Enter``` <br>
+
