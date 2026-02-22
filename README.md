@@ -50,3 +50,20 @@ We have to first pull remote changes so for that we use git stash to hide our lo
 
 `echo ".env" > .gitignore` <br>
 This command is used to create a gitignore file inside a gitignore file we write those file extensions or folder names that should be ignored while pushing code u can open in notepad by running `notepad .gitignore`.
+
+# Stage 2
+
+## Branches 
+
+`git branch <branchname>`<br>
+This command creates a new branch.
+
+`git branch` <br>
+This command is used to check all the branches and where the user is.
+
+`git checkout <branchname>` <br>
+This command is used to go to the desired branch.
+After going to that branch check the active branch by running `git branch`.
+
+`git merge <branchname>` <br>
+This command will merge the branch with main branch run this command after moving to main branch.

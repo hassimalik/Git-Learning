@@ -65,3 +65,5 @@ This command is used to check all the branches and where the user is.
 This command is used to go to the desired branch.
 After going to that branch check the active branch by running `git branch`.
 
+`git merge <branchname>` <br>
+This command will merge the branch with main branch run this command after moving to main branch.
