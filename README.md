@@ -67,3 +67,8 @@ After going to that branch check the active branch by running `git branch`.
 
 `git merge <branchname>` <br>
 This command will merge the branch with main branch run this command after moving to main branch.
+
+## Day 3
+
+`git checkout -d <branchname>` <br>
+We delete the branch after merging one branch code to the main branch and after pushing code so that i shouldn't create clusters.
